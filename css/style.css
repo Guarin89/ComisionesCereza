@@ -1,5 +1,5 @@
 body{
-    background: rgb(2, 2, 2);
+    background: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,30 +23,33 @@ form{
 h1{
     text-align: center;
     margin-bottom: 20px;
-    color: ivory;
+    color: white;
 }
 
 h2{
     text-align: center;
     margin-bottom: 20px;
-    color: ivory;
+    color: white;
 }
 
-
-input{
-    background: #0c0c0c;
-    color: ivory;
-    display: inline-block;
-    border: 2px solid black;
+.btn{
+    background: #ff0083;
+    color: white;
     width: 40%;
+    display:inline-block;
 }
 
-input:hover{
+.btn:hover{
     background: black;
+    color: white;
 }
 
 button{
     background: #ff0083;
-    color: ivory;
+    color: white;
 }
 
+button:hover{
+    background: black;
+    color: white;
+}
