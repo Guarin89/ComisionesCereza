@@ -24,13 +24,15 @@
         <label for="FFinal">Fecha Final</label>
         <input type="date" name="FFinal" class="form-control" id="FFinal">
         </div>-->
+        <section>
         <b>
         <label for="FInicial">Fecha Inicial</label>
         <input type="date" name="FInicial" class="form-control" id="FInicial">
-        <br>
+        
 
         <label for="FFinal">Fecha Final</label>
         <input type="date" name="FFinal" class="form-control" id="FFinal"><br>
+</section>
 <center>
 <div class="dropdown">
 <button class="btn dropdown" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
