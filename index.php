@@ -26,7 +26,7 @@
 <center>
 <div class="dropdown">
 <button class="btn dropdown" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-    FILTRAR VENDEDOR
+ FILTRAR VENDEDOR
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
     <li><a class="dropdown-item" href="#">LORENA</a></li>
