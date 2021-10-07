@@ -33,7 +33,7 @@
         <input type="date" name="FFinal" class="form-control" id="FFinal"><br>
 <center>
 <div class="dropdown">
-<button class="btn btn dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+<button class="btn dropdown" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
     FILTRAR VENDEDOR
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -44,8 +44,8 @@
 <br><br>
 </div>
 <center>
-<input type="submit" value="CONSULTAR" class="btn btn" name="btn_consultar">
-<input type="submit" value="DESCARGAR" class="btn btn" name="btn_descargar">
+<input type="submit" value="CONSULTAR" class="btn" name="btn_consultar">
+<input type="submit" value="DESCARGAR" class="btn" name="btn_descargar">
 </center>
     </form>
     

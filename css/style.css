@@ -32,24 +32,21 @@ h2{
     color: ivory;
 }
 
+
 input{
-    background: #ff0083;
+    background: #0c0c0c;
     color: ivory;
-    display: block;
-    border: 2px solid #fffcfd;
+    display: inline-block;
+    border: 2px solid black;
     width: 40%;
 }
 
 input:hover{
-    opacity: .7;
+    background: black;
 }
 
 button{
     background: #ff0083;
     color: ivory;
-}
-
-button:hover{
-    opacity: .7;
 }
 
