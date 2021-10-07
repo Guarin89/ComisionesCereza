@@ -13,17 +13,7 @@
     <form action="index.php" method="POST">
         <center><h1>COMISIONES TIENDA CEREZA</h1></center>
 
-        <!--<form action="comision1.php" method="POST">
-        <div class="form-group">
-        <label for="FInicial">Fecha Inicial</label>
-        <input type="date" name="FInicial" class="form-control" id="FInicial">
-        </div>
-
-        <form action="comision1.php" method="POST">
-        <div class="form-group">
-        <label for="FFinal">Fecha Final</label>
-        <input type="date" name="FFinal" class="form-control" id="FFinal">
-        </div>-->
+ 
         <section>
         <b>
         <label for="FInicial">Fecha Inicial</label>
